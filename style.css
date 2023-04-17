@@ -2,3 +2,7 @@
     margin: 0;
     font-family: serif;
 }
+div.lorem{
+    width: 50px;
+    margin: auto;
+}
